@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Payalsahu2001
-- 🌱 I’m currently learning MernStack WebDevelopment 
+- 👋 Hi, I’m Payal Sahu
+- 🌱 Full stack Developer
 - 📫 How to reach me Payalsahu1062000@gmail.com
   
 
